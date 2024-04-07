@@ -3,7 +3,7 @@ Get familiar with Scraping and NLP Pipeline.
 # Atelier NLP
 
 ## Overview
-Atelier NLP is a project focused on leveraging Natural Language Processing (NLP) techniques for processing and analyzing data scraped from BBC Arabic. The project includes steps for scraping web content, storing data in MongoDB, and applying NLP pipelines to the scraped data for analysis and insights.
+Atelier NLP is a Lab focused on leveraging Natural Language Processing (NLP) techniques for processing and analyzing data scraped from BBC Arabic. The project includes steps for scraping web content, storing data in MongoDB, and applying NLP pipelines to the scraped data for analysis and insights.
 
 ## Features
 - **Data Scraping**: Automated scripts to scrape news articles from BBC Arabic.
