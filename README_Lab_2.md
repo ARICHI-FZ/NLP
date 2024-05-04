@@ -13,7 +13,6 @@ The notebook `Lab_2_1.ipynb` includes Python code designed to parse textual data
 - **Regex-based text parsing**: Extracts product details from structured text.
 - **Bill generation**: Calculates total prices and prints a detailed bill with product names, quantities, unit prices, and total costs.
 
-# Arabic Text Processing Project
 
 ### Lab_2_2.ipynb
 
