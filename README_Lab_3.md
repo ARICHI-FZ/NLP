@@ -7,7 +7,6 @@ The primary objective of this lab is to gain proficiency in NLP language models 
 
 ### Lab3_1.ipynb
 
-#### Functionality
 ##### Language Modeling / Regression
 The notebook `Lab3_1.ipynb` includes Python code designed to Establish a preprocessing NLP pipeline, Encode your Data vectors, Train models by using SVR, Naive Bayes, Linear Regression , Decision Tree Algorithms and evaluations of each model.
 
