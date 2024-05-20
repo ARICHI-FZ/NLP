@@ -1,6 +1,7 @@
 # Project Overview
 
-TThe primary objective of this lab is to gain proficiency in NLP language models utilizing the Sklearn library.his repository contains a series of Jupyter notebooks developed as part of an educational project focusing on data processing and text parsing using Python. One of the highlights of this project is the utilization of a pre-trained GloVe model tailored for Arabic text data to enhance linguistic analyses.
+The primary objective of this lab is to gain proficiency in NLP language models utilizing the Sklearn library.
+
 
 ## Notebooks Description
 
